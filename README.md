@@ -40,6 +40,12 @@ Here are some of the notable projects I have worked on. Each project demonstrate
 - Technologies : Android Studio, Firebase, Java
 - GitHub Repository : [Budget Analyzer](https://github.com/akbalki2108/Budget-Analyser)
 
+### Health-Care-App
+- Description : health management through seamless accessibility, personalized support, and robust features, all at your fingertips.
+- Technologies : Android Studio, Firebase, Java
+- GitHub Repository : [Health-Care-App](https://github.com/akbalki2108/Health-Care-App)
+
+
 ## Let's Connect!
 I'm not just about code; I'm about collaboration, curiosity, and creating tech that matters. Whether it's discussing the latest innovations or diving into a challenging project, I'm always ready for a good tech chat or a coding duel! Feel free to drop by, say hi, or even collaborate on something awesome. Let's build the future together! 🚀✨
 
